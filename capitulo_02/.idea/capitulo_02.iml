@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/inter_app_communication/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/inter_app_communication/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/inter_app_communication/build" />
+      <excludeFolder url="file://$MODULE_DIR$/workshop_inter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/workshop_inter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/workshop_inter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/youtube_clone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/youtube_clone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/youtube_clone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lifecycle_state_challenge/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lifecycle_state_challenge/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lifecycle_state_challenge/build" />
+      <excludeFolder url="file://$MODULE_DIR$/examen_reencuentro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/examen_reencuentro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examen_reencuentro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/proyecto_reencuentro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/proyecto_reencuentro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/proyecto_reencuentro/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
